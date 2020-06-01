@@ -100,8 +100,7 @@
     <Status
       img="https://pbs.twimg.com/profile_images/974736784906248192/gPZwCbdS.jpg"
       time="4 mins ago"
-      text="Does anyone think global warming is a good thing? I love Lady Gaga.
-      I think she's a really interesting artist."
+      text="Just setting up my costatus"
       username="andreas"
       name="Andreas Brixen" />
     <div class="spacing" />
