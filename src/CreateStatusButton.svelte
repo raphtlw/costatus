@@ -52,6 +52,9 @@
     bottom: 5rem;
     right: 1.2rem;
   }
+  main:hover {
+    cursor: pointer;
+  }
   .icon {
     border-radius: 100%;
     background: rgb(19, 102, 255);
