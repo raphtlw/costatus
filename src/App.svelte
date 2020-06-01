@@ -100,14 +100,16 @@
     <Status
       img="https://pbs.twimg.com/profile_images/974736784906248192/gPZwCbdS.jpg"
       time="4 mins ago"
-      text="working on a large project"
+      text="Does anyone think global warming is a good thing? I love Lady Gaga.
+      I think she's a really interesting artist."
       username="andreas"
       name="Andreas Brixen" />
     <div class="spacing" />
     <Status
       img="https://pbs.twimg.com/profile_images/1054434556156162054/1H_7AxP0.jpg"
       time="6 mins ago"
-      text="finding unicorns in the hood"
+      text="I can't belive my grand mothers making me take Out the garbage I'm
+      rich fuck this I'm going home I don't need this shit"
       username="arnob"
       name="Arnob Mukherjee" />
     <div class="spacing" />
@@ -121,14 +123,15 @@
     <Status
       img="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=707b9c33066bf8808c934c8ab394dff6"
       time="50 mins ago"
-      text="watching YouTube"
+      text="I just looked at kanye page what the fuck kind a spaced out tweets
+      are those. fuck that I aint never looking at that shit again"
       username="myles"
       name="Miyah Myles" />
     <div class="spacing" />
     <Status
       img="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?h=350&auto=compress&cs=tinysrgb"
       time="1 hour ago"
-      text="watching Netflix"
+      text="Host meme review?"
       username="bright"
       name="Loki Bright" />
   </div>
