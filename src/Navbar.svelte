@@ -64,7 +64,7 @@
   <nav class="nav nav--icons">
     <ul>
       <li>
-        <a href="#home">
+        <a href="/">
           <svg
             class="icon icon-home"
             viewBox="0 0 24 24"
@@ -82,7 +82,7 @@
         </a>
       </li>
       <li>
-        <a href="#news">
+        <a href="/news">
           <svg
             class="icon icon-news"
             viewBox="0 0 24 24"
@@ -100,7 +100,7 @@
         </a>
       </li>
       <li>
-        <a href="#profile">
+        <a href="/profile">
           <svg
             class="icon icon-profile"
             viewBox="0 0 24 24"
@@ -120,7 +120,7 @@
         </a>
       </li>
       <li>
-        <a href="#search">
+        <a href="/search">
           <svg
             class="icon icon-search"
             viewBox="0 0 24 24"
