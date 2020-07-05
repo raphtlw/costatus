@@ -19,9 +19,6 @@
   }
 </style>
 
-<!-- TODO Add shadows -->
-<!-- TODO Add handle -->
-
 <main>
   <img src={image} alt="Story" />
   <span id="username">{username}</span>
